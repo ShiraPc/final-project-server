@@ -1,0 +1,53 @@
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\asp.net core webapi.exe
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\asp.net core webapi.deps.json
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\asp.net core webapi.runtimeconfig.json
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\asp.net core webapi.runtimeconfig.dev.json
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\asp.net core webapi.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\asp.net core webapi.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.AssemblyInfoInputs.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.AssemblyInfo.cs
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.csproj.CoreCompileInputs.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\staticwebassets\asp.net core webapi.StaticWebAssets.Manifest.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\staticwebassets\asp.net core webapi.StaticWebAssets.xml
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\asp.net core webapi.styles.css
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.RazorTargetAssemblyInfo.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.genruntimeconfig.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.csprojAssemblyReference.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\obj\Debug\netcoreapp3.1\asp.net core webapi.csproj.CopyComplete
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\taskManageent.BL.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\tasksManagement.DAL.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\taskManageent.BL.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\tasksManagement.DAL.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\asp.net core webapi\bin\Debug\netcoreapp3.1\AutoMapper.dll

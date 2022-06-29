@@ -1,0 +1,10 @@
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tryVersion\bin\Debug\netcoreapp3.1\tryVersion.deps.json
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tryVersion\bin\Debug\netcoreapp3.1\tryVersion.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tryVersion\bin\Debug\netcoreapp3.1\tryVersion.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tryVersion\obj\Debug\netcoreapp3.1\tryVersion.csprojAssemblyReference.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tryVersion\obj\Debug\netcoreapp3.1\tryVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tryVersion\obj\Debug\netcoreapp3.1\tryVersion.AssemblyInfoInputs.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tryVersion\obj\Debug\netcoreapp3.1\tryVersion.AssemblyInfo.cs
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tryVersion\obj\Debug\netcoreapp3.1\tryVersion.csproj.CoreCompileInputs.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tryVersion\obj\Debug\netcoreapp3.1\tryVersion.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tryVersion\obj\Debug\netcoreapp3.1\tryVersion.pdb

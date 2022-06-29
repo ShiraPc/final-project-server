@@ -1,0 +1,13 @@
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\bin\Debug\netcoreapp3.1\tasksManagement.DAL.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\bin\Debug\netcoreapp3.1\tasksManagement.DAL.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\bin\Debug\netcoreapp3.1\tasksManagement.DAL.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\obj\Debug\netcoreapp3.1\taskManageent.BL.csprojAssemblyReference.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\obj\Debug\netcoreapp3.1\taskManageent.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\obj\Debug\netcoreapp3.1\taskManageent.BL.AssemblyInfoInputs.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\obj\Debug\netcoreapp3.1\taskManageent.BL.AssemblyInfo.cs
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\bin\Debug\netcoreapp3.1\taskManageent.BL.deps.json
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\bin\Debug\netcoreapp3.1\taskManageent.BL.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\bin\Debug\netcoreapp3.1\taskManageent.BL.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\bin\Debug\netcoreapp3.1\tasksManagement.DAL.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\obj\Debug\netcoreapp3.1\taskManageent.BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\obj\Debug\netcoreapp3.1\taskManageent.BL.csproj.CopyComplete
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\obj\Debug\netcoreapp3.1\taskManageent.BL.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\taskManageent.BL\obj\Debug\netcoreapp3.1\taskManageent.BL.pdb

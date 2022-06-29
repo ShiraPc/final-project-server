@@ -1,0 +1,10 @@
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tasksManagement.DAL\bin\Debug\netcoreapp3.1\tasksManagement.DAL.deps.json
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tasksManagement.DAL\bin\Debug\netcoreapp3.1\tasksManagement.DAL.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tasksManagement.DAL\bin\Debug\netcoreapp3.1\tasksManagement.DAL.pdb
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tasksManagement.DAL\obj\Debug\netcoreapp3.1\tasksManagement.DAL.csprojAssemblyReference.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tasksManagement.DAL\obj\Debug\netcoreapp3.1\tasksManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tasksManagement.DAL\obj\Debug\netcoreapp3.1\tasksManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tasksManagement.DAL\obj\Debug\netcoreapp3.1\tasksManagement.DAL.AssemblyInfo.cs
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tasksManagement.DAL\obj\Debug\netcoreapp3.1\tasksManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tasksManagement.DAL\obj\Debug\netcoreapp3.1\tasksManagement.DAL.dll
+C:\Users\user1\3D Objects\פרויקט גמר\asp.net core webapi\tasksManagement.DAL\obj\Debug\netcoreapp3.1\tasksManagement.DAL.pdb
